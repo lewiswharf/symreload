@@ -27,5 +27,4 @@ The current page, utilities folder, and linked assets (CSS, JavaScript, images e
 
 ##History
 
-- 1.01 Fixed bug where __logVisit returned false incorrectly
 - 1.0 Initial release
