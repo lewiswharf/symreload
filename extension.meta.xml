@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="symreload" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>SymReload</name>
+	<description>Automatically reloads/refreshes browser when files in workspace are modified.</description>
+	<repo type="github">https://github.com/lewiswharf/symreload</repo>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="lewiswharf" symphony="Lewis">Mark Lewis</name>
+			<website>http://casadelewis.com</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2012-03-08w" min="2.2">
+			- Initial release
+		</release>
+	</releases>
+</extension>
