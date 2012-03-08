@@ -3,6 +3,7 @@
 	<name>SymReload</name>
 	<description>Automatically reloads/refreshes browser when files in workspace are modified.</description>
 	<repo type="github">https://github.com/lewiswharf/symreload</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/85377/</url>
 	<types>
 		<type>Workflow</type>
 	</types>
