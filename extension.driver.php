@@ -54,17 +54,6 @@
 			);
 			$cookie->set('page', $page);
 		}
-		
-		public static function getPage() {
-			$cookie = new Cookie(
-				'symreload', TWO_WEEKS, __SYM_COOKIE_PATH__, null, true
-			);
-			$page = $cookie->get('page');
-
-			$cookie->set('page', null);
-
-			return $page;
-		}
 	}
 	
 ?>

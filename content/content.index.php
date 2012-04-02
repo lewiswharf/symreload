@@ -11,7 +11,7 @@
 
 		    $files = $_POST['files'];
 
-		    if ($page = extension_symreload::getPage()) {
+		    if ($page = $_SESSION['symreload']['page']) {
 		    	$files[] = array('src' => $page, 'mod' => 0);
 		    	
 		    	$utilities = General::listStructure(UTILITIES, array('xsl'), false, 'asc', UTILITIES);
