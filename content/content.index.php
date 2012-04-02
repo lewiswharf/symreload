@@ -2,10 +2,10 @@
 
 	if(!defined("__IN_SYMPHONY__")) die("<h2>Error</h2><p>You cannot directly access this file</p>");
 
-	require_once(TOOLKIT . '/class.administrationpage.php');
+	require_once(TOOLKIT . '/class.page.php');
 	require_once(EXTENSIONS . '/symreload/extension.driver.php');
 
-	Class contentExtensionSymReloadIndex extends AdministrationPage  {
+	Class contentExtensionSymReloadIndex extends Page  {
 
 		public function view() {
 
