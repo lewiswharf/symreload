@@ -2,9 +2,9 @@
 
 Automatically reloads/refreshes browser when files in workspace are modified.
 
-- Version: 1.0
+- Version: 1.01
 - Author: Mark Lewis <mark@casadelewis.com>
-- Build Date: 08 March 2012
+- Build Date: 2 April 2012
 - Requirements: Symphony 2.2
 
 ##What's monitored
@@ -21,10 +21,15 @@ The current page, utilities folder, and linked assets (CSS, JavaScript, images e
    from the with-selected menu, then click Apply.
 3. Go to frontend page or refresh current frontend page to begin.
 
+##Notes
+
+- Disable XDebug and other debuggers in php.ini to reduce server `tmp` clutter.
+
 ##Uninstall
 
 1. Uninstall extension by selecting the "SymReload" item under Extensions, choose Uninstall from the with-selected menu, then click Apply.
 
 ##History
 
+- 1.01 Reduce overhead
 - 1.0 Initial release
