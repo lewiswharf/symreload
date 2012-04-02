@@ -7,8 +7,8 @@
 		public function about() {
 			return array(
 				'name'			=> 'SymReload',
-				'version'		=> '1.0',
-				'release-date'	=> '2012-03-08',
+				'version'		=> '1.01',
+				'release-date'	=> '2012-04-02',
 				'author'		=> array(
 					'name'			=> 'Mark Lewis',
 					'website'		=> 'http:casadelewis.com',
