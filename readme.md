@@ -28,8 +28,3 @@ The current page, utilities folder, and linked assets (CSS, JavaScript, images e
 ##Uninstall
 
 1. Uninstall extension by selecting the "SymReload" item under Extensions, choose Uninstall from the with-selected menu, then click Apply.
-
-##History
-
-- 1.01 Reduce overhead
-- 1.0 Initial release
