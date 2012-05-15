@@ -4,19 +4,6 @@
 
 		private $page = null;
 		
-		public function about() {
-			return array(
-				'name'			=> 'SymReload',
-				'version'		=> '1.01',
-				'release-date'	=> '2012-04-02',
-				'author'		=> array(
-					'name'			=> 'Mark Lewis',
-					'website'		=> 'http:casadelewis.com',
-					'email'			=> 'mark@casadelewis.com'
-				)
-			);
-		}
-		
 	/*-------------------------------------------------------------------------
 		Delegates:
 	-------------------------------------------------------------------------*/

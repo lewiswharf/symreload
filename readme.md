@@ -2,11 +2,6 @@
 
 Automatically reloads/refreshes browser when files in workspace are modified.
 
-- Version: 1.01
-- Author: Mark Lewis <mark@casadelewis.com>
-- Build Date: 2 April 2012
-- Requirements: Symphony 2.2
-
 ##What's monitored
 
 The current page, utilities folder, and linked assets (CSS, JavaScript, images etc.) are currently monitored.
